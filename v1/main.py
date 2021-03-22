@@ -65,3 +65,5 @@ def get_bot_response():
 
 if __name__ == "__main__":
     app.run()
+    
+#The day you stop learning is the day you begin decaying.
